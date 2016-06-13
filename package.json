@@ -1,0 +1,26 @@
+{
+  "name": "@elisp/eel",
+  "version": "0.0.0",
+  "description": "An Emacs Lisp package manager for npm",
+  "main": "eel.el",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eelisp/eel.git"
+  },
+  "keywords": [
+    "emacs",
+    "elisp",
+    "el",
+    "eel",
+    "npm"
+  ],
+  "author": "eelisp <elispemacs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eelisp/eel/issues"
+  },
+  "homepage": "https://github.com/eelisp/eel#readme"
+}
